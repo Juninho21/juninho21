@@ -1,7 +1,7 @@
 ## Olá! sou o Jair Marinho, desenvolvedor de aplicações!
 
 <div>
-  [![juninho21 GitHub stats](https://github-readme-stats.vercel.app/api?username=juninho21)](https://github.com/juninho21/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninho21)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
