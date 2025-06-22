@@ -1,8 +1,8 @@
 ## Olá! sou o Jair Marinho, desenvolvedor de aplicações!
 
-<div>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-</div>
+
 
 
 <div style="display: inline_block"><br>
