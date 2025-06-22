@@ -29,7 +29,8 @@
   <img  src="https://github.com/Juninho21/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
 </div>
-<div> 
-  [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<div align="center">
+  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
 </div>
 
