@@ -23,8 +23,7 @@
   <a href="https://www.linkedin.com/in/jair-marinho-6759b39b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div>
- name: Generate MultiSnake
+name: Generate MultiSnake
 
 on:
   schedule:
@@ -62,4 +61,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</div>
+
