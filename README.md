@@ -23,12 +23,9 @@
   <a href="https://www.linkedin.com/in/jair-marinho-6759b39b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div align="center">
+<div>
   <img  src="https://github.com/Juninho21/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
-</div>
-<div align="center">
-  <img  src="https://github.com/Juninho21/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
 
+</img>
+</div>
